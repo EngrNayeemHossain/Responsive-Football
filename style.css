@@ -1,0 +1,148 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+    background-color: #F8F8F8;
+}
+.header{
+    width: 100%;
+    background-color: #2D25A0;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.heading{
+    align-items: center;
+    margin-left: 90px;
+    color: white;
+    font-size: 40px;
+}
+.banner{
+    padding: 80px 60px;
+}
+.banner img{
+    width: 510px;
+    height: 390px;
+}
+.btn{
+    padding:10px 60px;
+    background-color: #E02C6D;
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+}
+.player-image-1 img{
+    width: 394px;
+    height: 337px;
+}
+.player-image-2 img{
+    width: 394px;
+    height: 337px;
+}
+.player-image-3 img{
+    width: 394px;
+    height: 337px;
+}
+.player-image-4 img{
+    width: 394px;
+    height: 337px;
+}
+.player-image-5 img{
+    width: 394px;
+    height: 337px;
+}
+.player-image-6 img{
+    width: 394px;
+    height: 337px;
+}
+.player-image-7 img{
+    width: 394px;
+    height: 337px;
+}
+.player-image-8 img{
+    width: 394px;
+    height: 337px;
+}
+.player-image-9 img{
+    width: 394px;
+    height: 337px;
+}
+.player-image-10 img{
+    width: 394px;
+    height: 337px;
+}
+.player-image-11 img{
+    width: 394px;
+    height: 337px;
+}
+.player-image-12 img{
+    width: 394px;
+    height: 337px;
+}
+.players{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.player{
+    
+    height: 500px;
+    justify-content: center;
+    text-align: justify;
+    padding: 20px;
+    margin: 20px;
+    background-color: white
+}
+.player-name{
+    font-size: 30px;
+    font-weight: 700;
+}
+.upper-footer{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding: 30px;
+}
+.side-banner img{
+    width: 700px;
+    height: 500px;
+}
+.footer-text{
+    align-items: center;
+    margin-left: 90px;
+    color: black;
+    padding: 30px;
+    justify-content: center;
+   
+}
+.footer-text h2{
+    padding-top: 60px;
+    font-size: 40px;
+}
+.footer-text p{
+    margin-bottom: 40px;
+}
+.footer{
+   
+    padding-top: 100px;
+    margin: 0 auto;
+    justify-content: center;
+}
+.footer-image{
+    display: block;
+    text-align: center;
+}
+.social-icons{
+    margin-top: 30px;
+    display: block;
+    text-align: center;
+}
+.icon-size{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    background-color: grey;
+}
+.bottom-text{
+    display: block;
+    text-align: center;
+    font-size: 25px;
+}
+
